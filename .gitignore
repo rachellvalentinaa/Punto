@@ -1,0 +1,10 @@
+*.class
+/bin/
+/out/
+/target/
+/build/
+/.gradle/
+
+# Operating system files
+.DS_Store
+Thumbs.db
